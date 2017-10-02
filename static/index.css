@@ -1,0 +1,38 @@
+/*#magenta_tag{
+  background-color: magenta;
+}*/
+/*#des{
+  color: Crimson;
+}
+.font-30{
+  font-size: 30px;
+}
+h1{
+  text-align: center;
+  background-color: LightGrey;
+
+
+}
+ body {
+   background-color: LightPink  ;
+ }
+h3{
+  color: DeepPink ;
+}
+.girl_type{
+  background-color: lavender;
+  padding: 20px;
+  margin: 5px;
+}*/
+#info{
+  color: red;
+  font-size: 30px;
+}
+.card-girl-type{
+  min-height: : 636px !important
+}
+
+.card-girl-img {
+  object-fit: cover;
+  height: 20vw !important ;
+}
